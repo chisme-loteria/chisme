@@ -11,15 +11,14 @@
 		<tr>
 		<td class = "yuh">
 		
-		<h1><center>ECON 612 Examples & Solutions</center></h1>
+		<h1><center>Juegos de Chisme</center></h1>
 		
 		<!-- Navigation -->
 		
 		<p><center>
 			<a href="{base}/"><button class = "button button1"><b>Home</b></button></a>
-			<a href="{base}/unit-01"><button class="button button1"><b>Unit 1</b></button></a>
-			<a href="{base}/unit-02"><button class="button button1"><b>Unit 2</b></button></a>
-			<a href="{base}/unit-03"><button class="button button1"><b>Unit 3</b></button></a>
+			<a href="{base}/guess-who"><button class="button button1"><b>Guess Who</b></button></a>
+			<a href="{base}/loteria"><button class="button button1"><b>Lotería</b></button></a>
 		</center></p>
 		
 		</td>
